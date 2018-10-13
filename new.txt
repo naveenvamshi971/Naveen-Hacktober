@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main{
+printf("Hello...This is my new file);
+
+return 0;
+}
