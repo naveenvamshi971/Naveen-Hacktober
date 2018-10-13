@@ -1,7 +1,7 @@
 // Java program to print 
 // Collatz sequence 
-import java.io.*; 
-  
+import java.io.*; ghj
+
 class GFG  
 { 
     static void printCollatz(int n) 
